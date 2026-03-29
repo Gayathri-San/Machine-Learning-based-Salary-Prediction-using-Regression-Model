@@ -6,3 +6,4 @@ To develop a regression based machine learning predictive model that analyse stu
 ### **PROJECT WORKFLOW**
 <p align="left">
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c076f47f-4c3e-46fa-a293-b974e6e2a500" />
+### **DATASET OVERVIEW**
