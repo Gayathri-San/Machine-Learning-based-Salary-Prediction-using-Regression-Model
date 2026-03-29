@@ -29,7 +29,7 @@ To develop a regression based machine learning predictive model that analyse stu
 
 ### **EVALUATION MATRIX**
 - The performance of the regression model was evaluated using multiple error metrics to ensure accurate prediction of salary 
-- Mean Absolute Error (MAE) measures the average absolute difference between actual and predicted salary values
+- Mean Squared Error (MSE) measures the average squared difference between the predicted values and the actual values
 - Root Mean Squared Error (RMSE) calculates the square root of the average squared differences, placing higher importance on larger errors 
 - Mean Absolute Percentage Error (MAPE) measures the average percentage difference between actual and predicted values to interpret model accuracy 
 - Lower values of MAE and RMSE indicate smaller prediction errors and better model performance 
@@ -37,8 +37,8 @@ To develop a regression based machine learning predictive model that analyse stu
 
 ### **MODEL PERFORMANCE**
 - The regression model was evaluated using performance metrics on both training and testing data 
-- Training data results:MSE = 1.1070, RMSE = 1.0521, MAPE = 7.81% 
-- Testing data results:MSE = 1.1059, RMSE = 1.0516, MAPE = 7.82% 
+- Training data results: MSE = 1.1070, RMSE = 1.0521, MAPE = 7.81% 
+- Testing data results: MSE = 1.1059, RMSE = 1.0516, MAPE = 7.82% 
 - The training and testing error values are very close, indicating consistent model performance 
 - The model achieved an approximate accuracy of 92%, showing reliable predictions 
 - There is no significant difference between training and testing results, indicating the model is not overfitting 
