@@ -37,8 +37,8 @@ To develop a regression based machine learning predictive model that analyse stu
 
 ### **MODEL PERFORMANCE**
 - The regression model was evaluated using performance metrics on both training and testing data 
-- Training data results:MSE = 1.1070, RMSE = 1.0521, MAPE = 7.81% 
-- Testing data results:MSE = 1.1059, RMSE = 1.0516, MAPE = 7.82% 
+- Training data results:MSE = 1.1070, RMSE = 1.0521, MAPE = 7.81% 
+- Testing data results:MSE = 1.1059, RMSE = 1.0516, MAPE = 7.82% 
 - The training and testing error values are very close, indicating consistent model performance 
 - The model achieved an approximate accuracy of 92%, showing reliable predictions 
 - There is no significant difference between training and testing results, indicating the model is not overfitting 
