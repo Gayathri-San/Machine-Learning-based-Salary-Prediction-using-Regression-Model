@@ -4,5 +4,5 @@ Many students and organizations lack a clear understanding of the salary outcome
 ### **OBJECTIVE**
 To develop a regression based machine learning predictive model that analyse student academic records to forecast future salary outcomes."
 ### **PROJECT WORKFLOW**
-<p align="right">
+<p align="center">
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c076f47f-4c3e-46fa-a293-b974e6e2a500" />
