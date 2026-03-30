@@ -32,10 +32,10 @@ To develop a regression based machine learning predictive model that analyse stu
   <table>
   <tr>
     <td align="left">
-      <img width="450" height="250" alt="hist" src="https://github.com/user-attachments/assets/d2c0eb52-0b3c-4c3c-b927-f3fba2c9d95f" />
+      <img width="500" height="300" alt="hist" src="https://github.com/user-attachments/assets/d2c0eb52-0b3c-4c3c-b927-f3fba2c9d95f" />
     </td>
     <td align="right">
-      <img width="450" height="250" alt="pie" src="https://github.com/user-attachments/assets/f7ca4fa1-3c07-437f-87e7-296046aed5ac" />
+      <img width="500" height="300" alt="pie" src="https://github.com/user-attachments/assets/f7ca4fa1-3c07-437f-87e7-296046aed5ac" />
     </td>
   </tr>
 </table>
@@ -43,10 +43,10 @@ To develop a regression based machine learning predictive model that analyse stu
 <table>
   <tr>
     <td align="left">
-      <img width="450" height="250" alt="box" src="https://github.com/user-attachments/assets/9f4ca1a9-f104-41b4-b5d3-eb21e6ff4c04" />
+      <img width="500" height="300" alt="box" src="https://github.com/user-attachments/assets/9f4ca1a9-f104-41b4-b5d3-eb21e6ff4c04" />
     </td>
     <td align="right">
-      <img width="450" height="250" alt="bar" src="https://github.com/user-attachments/assets/69d784d7-d27c-470c-adb1-954d3df2673c" />
+      <img width="500" height="300" alt="bar" src="https://github.com/user-attachments/assets/69d784d7-d27c-470c-adb1-954d3df2673c" />
     </td>
   </tr>
 </table>
@@ -54,10 +54,10 @@ To develop a regression based machine learning predictive model that analyse stu
 <table>
   <tr>
     <td align="left">
-      <img width="450" height="250" alt="reg" src="https://github.com/user-attachments/assets/e2eb8113-2dd3-4602-914a-ec50fbdef5da" />
+      <img width="500" height="300" alt="reg" src="https://github.com/user-attachments/assets/e2eb8113-2dd3-4602-914a-ec50fbdef5da" />
     </td>
     <td align="right">
-      <img width="450" height="250" alt="reg" src="https://github.com/user-attachments/assets/f4ee1347-1b1a-46e8-bc35-837d0b2c46dd" />
+      <img width="500" height="300" alt="reg" src="https://github.com/user-attachments/assets/f4ee1347-1b1a-46e8-bc35-837d0b2c46dd" />
     </td>
   </tr>
 </table>
