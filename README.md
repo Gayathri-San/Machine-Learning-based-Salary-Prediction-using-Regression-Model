@@ -43,10 +43,21 @@ To develop a regression based machine learning predictive model that analyse stu
 <table>
   <tr>
     <td align="left">
-      <img width="2098" height="1530" alt="box" src="https://github.com/user-attachments/assets/9f4ca1a9-f104-41b4-b5d3-eb21e6ff4c04" />
+      <img width="450" height="250" alt="box" src="https://github.com/user-attachments/assets/9f4ca1a9-f104-41b4-b5d3-eb21e6ff4c04" />
     </td>
     <td align="right">
-      <img width="2058" height="1403" alt="bar" src="https://github.com/user-attachments/assets/69d784d7-d27c-470c-adb1-954d3df2673c" />
+      <img width="450" height="250" alt="bar" src="https://github.com/user-attachments/assets/69d784d7-d27c-470c-adb1-954d3df2673c" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="left">
+      <img width="450" height="250" alt="reg" src="https://github.com/user-attachments/assets/e2eb8113-2dd3-4602-914a-ec50fbdef5da" />
+    </td>
+    <td align="right">
+      <img width="450" height="250" alt="reg" src="https://github.com/user-attachments/assets/f4ee1347-1b1a-46e8-bc35-837d0b2c46dd" />
     </td>
   </tr>
 </table>
