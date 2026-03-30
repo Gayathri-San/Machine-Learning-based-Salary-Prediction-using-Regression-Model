@@ -27,6 +27,14 @@ To develop a regression based machine learning predictive model that analyse stu
 - Split the dataset into training and testing sets to evaluate the model’s performance on unseen data 
 - Prepared the final cleaned dataset in a structured format suitable for building and testing the regression model
 
+### **Exploratory Data Analysis**
+
+<p align="center">
+ <img width="2138" height="1410" alt="hist" src="https://github.com/user-attachments/assets/7f162ae6-90fb-4c82-bff1-9e9ad43c7d9f" />
+ <img width="1517" height="1509" alt="pie" src="https://github.com/user-attachments/assets/fe1d6cca-28db-4d73-962d-e6281ba09a38" />
+ <img width="2058" height="1403" alt="bar" src="https://github.com/user-attachments/assets/c540ad39-01ee-41a9-b2a1-73f6d186ddc7" />
+</p>
+
 ### **EVALUATION MATRIX**
 - The performance of the regression model was evaluated using multiple error metrics to ensure accurate prediction of salary 
 - Mean Squared Error (MSE) measures the average squared difference between the predicted values and the actual values
