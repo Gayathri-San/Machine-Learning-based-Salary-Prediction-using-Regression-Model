@@ -29,11 +29,16 @@ To develop a regression based machine learning predictive model that analyse stu
 
 ### **Exploratory Data Analysis**
 
-  </p>
- <img width="450" height="300" alt="hist" src="https://github.com/user-attachments/assets/7f162ae6-90fb-4c82-bff1-9e9ad43c7d9f"  align="left"/>
- <img width="450" height="300" alt="pie" src="https://github.com/user-attachments/assets/fe1d6cca-28db-4d73-962d-e6281ba09a38"   align="right"/>
- <p>
-  
+  <table>
+  <tr>
+    <td align="left">
+      <img width="450" height="250" alt="hist" src="https://github.com/user-attachments/assets/d2c0eb52-0b3c-4c3c-b927-f3fba2c9d95f" />
+    </td>
+    <td align="right">
+      <img width="450" height="250" alt="pie" src="https://github.com/user-attachments/assets/f7ca4fa1-3c07-437f-87e7-296046aed5ac" />
+    </td>
+  </tr>
+</table>
 
 ### **EVALUATION MATRIX**
 - The performance of the regression model was evaluated using multiple error metrics to ensure accurate prediction of salary 
