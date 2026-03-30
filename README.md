@@ -40,6 +40,17 @@ To develop a regression based machine learning predictive model that analyse stu
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="left">
+      <img width="2098" height="1530" alt="box" src="https://github.com/user-attachments/assets/9f4ca1a9-f104-41b4-b5d3-eb21e6ff4c04" />
+    </td>
+    <td align="right">
+      <img width="2058" height="1403" alt="bar" src="https://github.com/user-attachments/assets/69d784d7-d27c-470c-adb1-954d3df2673c" />
+    </td>
+  </tr>
+</table>
+
 ### **EVALUATION MATRIX**
 - The performance of the regression model was evaluated using multiple error metrics to ensure accurate prediction of salary 
 - Mean Squared Error (MSE) measures the average squared difference between the predicted values and the actual values
