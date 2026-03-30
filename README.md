@@ -30,9 +30,9 @@ To develop a regression based machine learning predictive model that analyse stu
 ### **Exploratory Data Analysis**
 
 <p align="center">
- <img width="1000" height="600" alt="hist" src="https://github.com/user-attachments/assets/7f162ae6-90fb-4c82-bff1-9e9ad43c7d9f" />
- <img width="1000" height="600" alt="pie" src="https://github.com/user-attachments/assets/fe1d6cca-28db-4d73-962d-e6281ba09a38" />
- <img width="1000" height="600" alt="bar" src="https://github.com/user-attachments/assets/c540ad39-01ee-41a9-b2a1-73f6d186ddc7" />
+ <img width="300" height="150" alt="hist" src="https://github.com/user-attachments/assets/7f162ae6-90fb-4c82-bff1-9e9ad43c7d9f" />
+ <img width="300" height="150" alt="pie" src="https://github.com/user-attachments/assets/fe1d6cca-28db-4d73-962d-e6281ba09a38" />
+ <img width="300" height="150" alt="bar" src="https://github.com/user-attachments/assets/c540ad39-01ee-41a9-b2a1-73f6d186ddc7" />
 </p>
 
 ### **EVALUATION MATRIX**
