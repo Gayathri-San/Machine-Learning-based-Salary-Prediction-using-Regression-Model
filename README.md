@@ -85,7 +85,7 @@ To develop a regression based machine learning predictive model that analyse stu
 - The correlation between variable A and B is the same as between B and A.
 - It is often represented by heatmap, making it easier to spot strong or weak correlations at a glance.
 <p align="center">
-  <img width="500" height="450" alt="cr" src="https://github.com/user-attachments/assets/685eab31-bc8d-4161-8579-603548fd8727" />
+  <img width="700" height="700" alt="cr" src="https://github.com/user-attachments/assets/685eab31-bc8d-4161-8579-603548fd8727" />
 </p>
 
 
