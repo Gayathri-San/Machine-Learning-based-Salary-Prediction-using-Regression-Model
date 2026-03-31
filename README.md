@@ -63,11 +63,24 @@ To develop a regression based machine learning predictive model that analyse stu
 </table>
 
 ### **ASSUMPTIONS OF LINEAR REGRESSION**
-- Errors should be randomly distributed with no pattern.This ensures linearity and that the model is not systematically biased.
-From below plot we can assume that there is no pattern in the errors, and the errors are randomly distributed indicating satisfied assumptions.
+- Errors should be randomly distributed with no pattern.This ensures linearity and that the model is not systematically biased.From below plot we can assume that there is no pattern in the errors, and the errors are randomly distributed indicating satisfied assumptions.
 <p align="center">
   <img width="450" height="350" alt="pt" src="https://github.com/user-attachments/assets/dcf1c283-c6cc-4ea4-86b9-a2f8762070fb" />
 </p>
+
+- Normally distributed errors mean that most predictions are close to actual values, with fewer deviations.It helps ensure that model predictions are unbiased.Errors should be symmetrically distributed around zero.From the below plot we can assume that errors are Normally Distibuted.
+<p align="center">
+  <img width="450" height="350" alt="nd" src="https://github.com/user-attachments/assets/6efebf6b-02d4-4264-b001-2e7877f48b24" />
+</p>
+
+- Homoscedasticity ensures that the model’s predictions are equally reliable for all the values.The variance of errors should be constant across all the values and it should be close to the regression line.From the below plot we can assume that Homoscedasticity is satisfied.
+<p align="center">
+  <img width="450" height="350" alt="hs" src="https://github.com/user-attachments/assets/0293f268-f8c9-45b1-b99b-dc6b94318476" />
+</p>
+
+
+  
+
 
 
 
