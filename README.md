@@ -52,10 +52,10 @@ To develop a regression based machine learning predictive model that analyse stu
 </table>
 
 
-  <p align="left" style="display:flex; justify-content:left; gap:10px;">
+  <p align="left" style="display:flex; justify-content:space-between;">
   <img width="450" height="300" alt="reg" src="https://github.com/user-attachments/assets/e2eb8113-2dd3-4602-914a-ec50fbdef5da" />
   </p>
-  <p align="right" style="display:flex; justify-content:center; gap:10px;">
+  <p align="right" style="display:flex; justify-content:space-between;">
   <img width="450" height="300" alt="vio" src="https://github.com/user-attachments/assets/583cf437-a709-4c05-9e46-92a344e3fdee" />
   </p>
 
