@@ -27,7 +27,7 @@ To develop a regression based machine learning predictive model that analyse stu
 - Split the dataset into training and testing sets to evaluate the model’s performance on unseen data 
 - Prepared the final cleaned dataset in a structured format suitable for building and testing the regression model
 
-### **Exploratory Data Analysis**
+### **EXPLORATORY DATA ANALYSIS**
 
   <table>
   <tr>
@@ -61,6 +61,16 @@ To develop a regression based machine learning predictive model that analyse stu
    </td>
   </tr>
 </table>
+
+### **ASSUMPTIONS OF LINEAR REGRESSION**
+- Errors should be randomly distributed with no pattern.This ensures linearity and that the model is not systematically biased.
+From below plot we can assume that there is no pattern in the errors, and the errors are randomly distributed indicating satisfied assumptions.
+<p align="center">
+  <img width="450" height="350" alt="pt" src="https://github.com/user-attachments/assets/dcf1c283-c6cc-4ea4-86b9-a2f8762070fb" />
+</p>
+
+
+
 
 ### **EVALUATION MATRIX**
 - The performance of the regression model was evaluated using multiple error metrics to ensure accurate prediction of salary 
