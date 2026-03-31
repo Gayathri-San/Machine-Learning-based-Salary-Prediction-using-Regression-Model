@@ -78,11 +78,15 @@ To develop a regression based machine learning predictive model that analyse stu
   <img width="450" height="350" alt="hs" src="https://github.com/user-attachments/assets/0293f268-f8c9-45b1-b99b-dc6b94318476" />
 </p>
 
-
-  
-
-
-
+### **CORRELATION MATRIX**
+- A correlation matrix displays how every variable in a dataset is related to every other variable by values ranging from -1 to +1.
+- Values near 1 indicate strong positive correlation, near -1 indicate strong negative correlation, and near 0 indicate no relationship.
+- Each variable is perfectly correlated with itself, so the diagonal of the matrix always has 1.
+- The correlation between variable A and B is the same as between B and A.
+- It is often represented by heatmap, making it easier to spot strong or weak correlations at a glance.
+<p align="center">
+  <img width="500" height="450" alt="cr" src="https://github.com/user-attachments/assets/685eab31-bc8d-4161-8579-603548fd8727" />
+</p>
 
 
 ### **EVALUATION MATRIX**
