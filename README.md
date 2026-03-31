@@ -8,7 +8,7 @@ To develop a regression based machine learning predictive model that analyse stu
 
 ### **PROJECT WORKFLOW**
 <p align="left">
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c076f47f-4c3e-46fa-a293-b974e6e2a500" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/c076f47f-4c3e-46fa-a293-b974e6e2a500" />
   
 ### **DATASET OVERVIEW**
 - The dataset is obtained from Kaggle, a widely used platform for machine learning datasets
@@ -85,7 +85,7 @@ To develop a regression based machine learning predictive model that analyse stu
 - The correlation between variable A and B is the same as between B and A.
 - It is often represented by heatmap, making it easier to spot strong or weak correlations at a glance.
 <p align="center">
-  <img width="700" height="700" alt="cr" src="https://github.com/user-attachments/assets/685eab31-bc8d-4161-8579-603548fd8727" />
+  <img width="1000" height="1000" alt="cr" src="https://github.com/user-attachments/assets/685eab31-bc8d-4161-8579-603548fd8727" />
 </p>
 
 
