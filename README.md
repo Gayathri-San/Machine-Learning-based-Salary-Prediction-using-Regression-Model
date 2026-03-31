@@ -54,7 +54,7 @@ To develop a regression based machine learning predictive model that analyse stu
 <table>
   <tr>
     <td align="left">
-      <img width="500" height="300" alt="reg" src="https://github.com/user-attachments/assets/e2eb8113-2dd3-4602-914a-ec50fbdef5da" />
+      <img width="500" style="height:auto;" alt="reg" src="https://github.com/user-attachments/assets/e2eb8113-2dd3-4602-914a-ec50fbdef5da" />
     </td>
     <td align="right">
       <img width="500" height="300" alt="vio" src="https://github.com/user-attachments/assets/583cf437-a709-4c05-9e46-92a344e3fdee" />
